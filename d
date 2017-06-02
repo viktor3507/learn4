@@ -46,7 +46,11 @@ server4
 vik1
 vik2
 vik3
-vik4
 server10
 server11
 server12
+server13
+vik4
+vik5
+vik6
+vik7

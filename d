@@ -55,3 +55,4 @@ vik5
 vik6
 vik7
 server1
+server2

@@ -47,3 +47,5 @@ vik1
 vik2
 vik3
 vik4
+server10
+server11

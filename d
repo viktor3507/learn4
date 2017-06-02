@@ -43,3 +43,7 @@ server1
 server2
 server3
 server4
+vik1
+vik2
+vik3
+vik4

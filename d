@@ -75,3 +75,6 @@ vik1
 asdf
 asdf
 vik100
+server1
+server1
+server1

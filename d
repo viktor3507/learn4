@@ -81,4 +81,12 @@ server1
 vik100
 server1
 server1
+<<<<<<< HEAD
 v1
+=======
+s1
+s2
+v1
+s3
+s4
+>>>>>>> bb576642b9f4a3e2cb5d056af8befb70db009735
